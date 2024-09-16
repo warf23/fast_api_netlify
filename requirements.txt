@@ -1,0 +1,8 @@
+flask
+python-dotenv
+langchain
+langchain_community
+openai
+youtube-transcript-api
+pytube
+gunicorn==20.1.0
